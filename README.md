@@ -1,6 +1,6 @@
 # CMVDataRequest
 
-[![CI Status](http://img.shields.io/travis/chinnu.mv@citrusinformatics.com/CMVDataRequest.svg?style=flat)](https://travis-ci.org/chinnu.mv@citrusinformatics.com/CMVDataRequest)
+[![CI Status](http://img.shields.io/travis/chinnumv/CMVDataRequest.svg?style=flat)](https://travis-ci.org/chinnu.mv@citrusinformatics.com/CMVDataRequest)
 [![Version](https://img.shields.io/cocoapods/v/CMVDataRequest.svg?style=flat)](http://cocoapods.org/pods/CMVDataRequest)
 [![License](https://img.shields.io/cocoapods/l/CMVDataRequest.svg?style=flat)](http://cocoapods.org/pods/CMVDataRequest)
 [![Platform](https://img.shields.io/cocoapods/p/CMVDataRequest.svg?style=flat)](http://cocoapods.org/pods/CMVDataRequest)
@@ -22,7 +22,7 @@ pod 'CMVDataRequest'
 
 ## Author
 
-chinnu.mv@citrusinformatics.com, chinnu.mv@citrusinformatics.com
+chinnumv, chinnumvijayan@gmail.com
 
 ## License
 
