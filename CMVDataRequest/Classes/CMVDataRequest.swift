@@ -143,7 +143,7 @@ class CMVDataRequest: NSObject {
     
     func dataRequest_PUT(urlString : String ,paramters : NSDictionary?,callback:@escaping (NSDictionary) -> Void){
         
-        print(paramters);
+       
         
         //create the url with URL
         let url = URL(string:  urlString )! //change the url
